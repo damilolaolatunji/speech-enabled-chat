@@ -1,6 +1,6 @@
 # Build a Text-to-Speech Chat App with Amazon Polly and Stream
 
-Tutorial:
+Tutorial: https://getstream.io/blog/text-to-speech-messaging-aws-polly/
 
 # Pre-requisites
 - Make sure you have Node.js (version 10 or later) and [yarn](https://yarnpkg.com/lang/en/docs/install/) installed on your machine.
@@ -14,7 +14,7 @@ Tutorial:
     Amazon AWS.
 - Rename the `.env.example` file to `.env` and update it with your Stream and AWS credentials.
 - Run `node server.js` from within the project root to start the Node server on port 5500.
-- Run `ng serve` from the client folder to start the React app development server.
+- Run `yarn start` from the `client` folder to start the React app development server.
 - View http://localhost:3000 in your browser.
 
 ## Built With
